@@ -1,0 +1,26 @@
+.one{
+    background-color: rgb(26, 141, 97);
+    color: red;
+    width: 100%;
+    height: 200px;
+    display:none ;
+    margin: 10px;
+  
+}
+.two{
+    background-color: blue;
+    color: rgb(143, 89, 89);
+    width: 100%;
+    height: 200px;
+    display: none;
+    margin: 10px;
+
+}
+.three{
+    background-color: rgb(54, 54, 68);
+    color: red;
+    width: 100%;
+    height:200px;
+   
+    margin:10px ;
+}

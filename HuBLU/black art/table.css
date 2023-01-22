@@ -1,0 +1,5 @@
+body{
+    background-image:url("shafi1.jpg"), url("poem.jpg"), url("tayeba2.jpg");
+    background-repeat: no-repeat;
+    background-size: 400px 400px, 400px 400px, 400px 400px,cover;
+}
